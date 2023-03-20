@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...software developer
+- 🔭 I’m currently student on ...software developer
 - 🌱 I’m currently learning ...programming languages
 - 👯 I’m looking to collaborate on ...programming languages
 - 🤔 I’m looking for help with ...Aws
