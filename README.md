@@ -10,6 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Aws
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...[linkdin](https://www.linkedin.com/in/morsi-alshehabi-27009a171/)
-- 😄 Pronouns: ...he/him
 - ⚡ Fun fact: ...I'm half finnish
 -->
